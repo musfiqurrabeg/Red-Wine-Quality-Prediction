@@ -12,7 +12,6 @@ With every sip of red wine lies a story of acidity, sulfates, alcohol content, a
 
 This notebook-based project focuses on predicting the quality of red Portuguese "Vinho Verde" wine based solely on its **chemical properties** — no brand names, no marketing fluff, just raw, measurable data.
 
-- ✅ **Binary & Multi-class Classification Approaches**
 - 🧪 Dataset from the **UCI Machine Learning Repository**
 - 🔍 Models Used: **Support Vector Machine (SVM)** and **Decision Tree**
 - 📊 Visualized feature impacts + decision boundaries
@@ -31,7 +30,7 @@ Build a supervised machine learning model to **predict wine quality (0–10)** u
 
 ## 🧬 Dataset Details
 
-📚 Source: [UCI Machine Learning Repository – Wine Quality Data Set](https://archive.ics.uci.edu/ml/datasets/wine+quality)  
+📚 Source: [Wine Quality Data Set](https://archive.ics.uci.edu/ml/datasets/wine+quality)  
 📦 Format: CSV  
 📌 Records: 1599 red wine samples  
 🔍 Target Variable: `quality` (score between 0 and 10)
